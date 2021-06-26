@@ -5,3 +5,6 @@ kuda
 singa
 gajah
 kodok
+ular
+biawak
+anjing
