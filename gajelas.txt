@@ -1,0 +1,7 @@
+kucing
+burung
+ayam
+kuda
+singa
+gajah
+kodok
