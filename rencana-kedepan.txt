@@ -1,7 +1,8 @@
 Rencana kedepan
 
-- jadwal
-- urut
-- berulang
-- terlaksana
-- rencana baru
+1 jadwal
+  - pengurutan secara berkala
+2 urut
+3 berulang
+4 terlaksana
+5 rencana baru
